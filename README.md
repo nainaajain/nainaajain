@@ -4,7 +4,15 @@
 
 
 <p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
-    I am a passionate, full stack software developer and a software engineer. My aim is to make people's lives better & easier by developing applications and websites. Overall, my goal is to combine my technical expertise, creative mindset, and problem-solving abilities to contribute to the development of cutting-edge web applications and drive digital innovation.
+    👩‍💻 I am a passionate, full stack software developer and a software engineer. 
+    <br>
+    <br>
+    📚 I am currently studying at JIIT noida 
+    <br>
+    <br>
+    ✍️ I  contribute to the development of cutting-edge web applications and drive digital innovation.
+    <br>
+
 <br>
 <br>
 <div align="center">
@@ -12,7 +20,8 @@
 
 -🌱 I’m currently learning **Backend Development , ML ,designing .**
 
--📫 Reach me at **jnaina689@gmail.com**
+-📫 Cloud skill badges are at:https://www.cloudskillsboost.google/public_profiles/eb81d5c0-7b1f-4401-b14b-246e258ed625
+ 
 </div>
 </p>    
 <br>
@@ -109,5 +118,19 @@
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nainaajain&layout=compact&show_icons=true&theme=algolia&border_radius=20)
 </div>
 <!--  End Stats Cards -->
+
+---
+<div class="footer" align="center" style="margin:15px;">
+    <a href="https://instagram.com/https://www.instagram.com/naina_jain2/" target="_blank">
+        <img  style="margin:0 10px 10px 0;" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="youtube" width="40px"/>
+    </a>
+    <a href="https://linkedin.com/in/https://www.linkedin.com/in/naina-jain12345/" target="_blank">
+        <img style="margin:0 10px 10px 0;" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="blogger" width="40px"/>
+    </a>
+    <a href="mailto:jnaina689@gmaail.com" target="_blank">
+        <img style="margin:0 10px 10px 0;" src="https://user-images.githubusercontent.com/78341798/194531383-ddb2b774-5bb9-491c-b601-4a4a7d9792fb.svg" alt="gmail" width="40px"/>
+    </a>
+</div>
+
 
 
